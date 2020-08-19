@@ -5,6 +5,6 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="Indonesia",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="ind",URI="https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/6.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ind",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/13.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=715996,AVERAGE-BANDWIDTH=715996,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=480x270,AUDIO="audiod",SUBTITLES="subs"
-https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8
 #EXT-X-STREAM-BANDWIDTH=1175788,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=640x360,AUDIO="audiod",SUBTITLES="subs"
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8
