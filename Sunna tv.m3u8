@@ -1,1 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0491654,RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO="audio1"
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1686599561~dirs=1~hash=01b145d079d2d7334f435/ksasunna.smil/ksasunna_360p_chunks_dvr.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0991654,RESOLUTION=860x480,FRAME-RATE=25.000,AUDIO="audio1"
 https://cllive.itworkscdn.net/ksasunnalive/token=nva=1686599561~dirs=1~hash=01b145d079d2d7334f435/ksasunna.smil/ksasunna_480p_chunks_dvr.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2400567,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio1"
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1686599562~dirs=1~hash=01f769c5900b0cd2264ed/ksasunna.smil/ksasunna_source_chunks_dvr.m3u8
+
+
