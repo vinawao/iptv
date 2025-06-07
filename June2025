@@ -109,6 +109,7 @@ http://213.91.178.133:8000/play/a0ar
 http://213.91.178.133:8000/play/a05n
 #EXTINF:-1 group-title="SPORT 🏆",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
 #EXTINF:-1 group-title="SPORT 🏆",Boxing TV HD UK
 https://32tech0steam0dp01.org/live/UK_BoxingTVFHD/chunks.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sky Sports Football HD UK
@@ -119,10 +120,16 @@ https://32tech0steam0dp01.org/live/UK_SkySportF1FHD/chunks.m3u8
 https://32tech0steam0dp01.org/live/UK_SkySportsTennisFHD/chunks.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sky Sports Action HD UK
 https://32tech0steam0dp01.org/live/UK_SkySportsActionHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sky Sports Golf HD UK
+https://32tech0steam0dp01.org/live/UK_SkySportsGolfHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sky Sports Cricket HD UK
+https://32tech0steam0dp01.org/live/UK_SkySportsCricketHD/chunks.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",TNT Sports1 HD UK
 https://32tech0steam0dp01.org/live/UK_TNTSports1FHD/chunks.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sportitalia IT
 https://32tech0steam0dp01.org/live/IT_Sportitalia/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport1 IT
+https://32tech0steam0dp01.org/live/IT_Eurosport1FHD/chunks.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport2 IT
 https://32tech0steam0dp01.org/live/IT_Eurosport2FHD/chunks.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",DAZN1 DE
@@ -137,6 +144,7 @@ https://32tech0steam0dp01.org/live/Sport1FHD/chunks.m3u8
 https://32tech0steam0dp01.org/live/US_Formula1/chunks.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Teledeporte HD ES
 https://32tech0steam0dp01.org/live/ES_TeledeporteHD/chunks.m3u8
+
 #EXTINF:-1 group-title="SPORT 🏆",Боец
 http://87.120.142.11:18000/Match!
 #EXTINF:-1 group-title="SPORT 🏆",Arena
