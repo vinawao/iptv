@@ -80,6 +80,21 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/woujvkfnmn/out/v1/1
 
 
 
+#EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ae" tvg-logo="https://www.chefstudio.it/img/blog/logo-serie-a/logo-serie-a.jpg" group-title="SPORTS🏅", ABU DHABI SPORTS PREMIUM 1 🇦🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 2.ae" tvg-logo="https://www.chefstudio.it/img/blog/logo-serie-a/logo-serie-a.jpg" group-title="SPORTS🏅", ABU DHABI SPORTS PREMIUM 2 🇦🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+
+
+
+
+
 #EXTINF:-1 group-title="🏍️ MOTO-GP 🏍️" tvg-id="skysport.it" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/LOGO/02/Events_MotoGP.png", _SKY SPORT MOTOGP 🇮🇹 ITALY
 #EXTVLCOPT:http-referrer=https://topembed.pw/api.php?format=xml
 #EXTVLCOPT:http-origin=https://topembed.pw/api.php?format=xml
@@ -144,6 +159,9 @@ http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001200/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
+
 
 
 
