@@ -31,7 +31,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1  tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅" , Peacock PL TV 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j)/master.mpd
+https://damp-mouse-75ea.pejan97800.workers.dev/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j)/master.mpd
 
 
 #EXTINF:0 tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV",ASTRO PREMIER LEAGUE 1
