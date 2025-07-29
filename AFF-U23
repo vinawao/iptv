@@ -21,3 +21,73 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 
+
+#EXTINF:-1 group-title="🏍️ MOTO-GP 🏍️" tvg-id="skysport.it" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/LOGO/02/Events_MotoGP.png", _SKY SPORT MOTOGP 🇮🇹 ITALY
+#EXTVLCOPT:http-referrer=https://topembed.pw/api.php?format=xml
+#EXTVLCOPT:http-origin=https://topembed.pw/api.php?format=xml
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+$$https://fbyf.short.gy/SkyMotoGPLalajoProxy.m3u8
+$$https://fbyf.short.gy/SkySportMotoGP.m3u8
+
+https://cors.jugorder.de/http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/19133/index.m3u8?token=
+
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+
+
+
+#EXTINF:-1 group-title="🏍️ MOTO-GP 🏍️" tvg-id="spotv.kr" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/0A/event_motogp.png", SPOTV 🇮🇩 INDONESIA
+#EXTVLCOPT:http-referrer=https://firstmedia-tv.id/
+#EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Rmlyc3RNZWRpYVgvMy40Ni4yIChMaW51eDtBbmRyb2lkIDE1LjAuMDspIEV4b1BsYXllckxpYi8yLjE5LjE=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+$$$https://atemeshield1-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+
+
+#EXTINF:-1 group-title="🏍️ MOTO-GP 🏍️" tvg-id="spotv2.kr" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/0A/event_motogp.png", SPOTV 2 🇮🇩 INDONESIA
+#EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Rmlyc3RNZWRpYVgvMy40Ni4yIChMaW51eDtBbmRyb2lkIDE1LjAuMDspIEV4b1BsYXllckxpYi8yLjE5LjE=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://firstmedia-tv.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+$$$https://atemeshield1-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+
+#EXTINF:-1 group-title="🏍️ MOTO-GP 🏍️" tvg-id="spotv.kr" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/0A/event_motogp.png", SPOTV 🇲🇾 MALAYSIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46440eec3eeb6471abeb707b95450ccf:3503559f766f80106810aa7e1a485f1d
+https://unifi-live10.secureswiftcontent.com/UnifiHD/live10.mpd
+
+#EXTINF:-1 group-title="🏍️ MOTO-GP 🏍️" tvg-id="spotv.kr" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/0A/event_motogp.png", SPOTV 2 🇲🇾 MALAYSIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
+https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
+
+#EXTINF:-1 group-title="🏍️ MOTO-GP 🏍️" tvg-id="spotv.kr" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/0A/event_motogp.png", SPOTV 🇵🇭 PHILIPPINE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
+#EXTINF:-1 group-title="🏍️ MOTO-GP 🏍️" tvg-id="spotv.kr" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/0A/event_motogp.png", SPOTV 2 🇵🇭 PHILIPPINE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001200/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
+
+
+
