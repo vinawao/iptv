@@ -56,6 +56,12 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro
 https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 
+#EXTINF:-1 tvg-id="ESPN 4.br" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", ESPN 4 🇧🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934e461042f6431f9bad32480652eb3e:fd41d776a8ae49dc9992fb853444f435
+https://cwtvbk.cdnwatchlabs.io/dash/channels/espn4/index.mpd
+
+
 
 
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="SPORTS🏅" , LaLiga TV 🇬🇧
