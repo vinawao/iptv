@@ -61,6 +61,8 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro
 
 https://events3.liveboxpro.com/event/124.m3u8
 
+#EXTINF:-1 tvg-id="00000" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", Sky Sport Premier League 🇩🇪
+https://events3.liveboxpro.com/event/1.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4.br" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", ESPN 4 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
