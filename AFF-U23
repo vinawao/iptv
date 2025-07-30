@@ -277,6 +277,36 @@ https://damp-mouse-75ea.pejan97800.workers.dev/http://linearjitp-playback.astro.
 
 
 
+#EXTINF:-1 tvg-id="GO3 Sport 1 (LT).lv" tvg-logo="https://i.ibb.co.com/fQSmk0y/go3sport1.png" group-title="SPORTS🏅", GO3 Sport 1 🇱🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/560502/index.mpd
+
+#EXTINF:-1 tvg-id="GO3 Sport 2 (LT).lv" tvg-logo="https://i.ibb.co.com/vZ3pSq8/go3sport2.png" group-title="SPORTS🏅", GO3 Sport 2 🇱🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/560505/index.mpd
+
+#EXTINF:-1 tvg-id="Go3 Sport Open.lt" tvg-logo="https://i.ibb.co.com/JQXQfyq/go3sportopen.png" group-title="SPORTS🏅", GO3 Sport OPEN 🇱🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561402/index.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hBDRkbp/hboxing.png" group-title="SPORTS🏅", HBO BOXING 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hBDRkbp/hboxing.png" group-title="SPORTS🏅", HBO BOXING 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WHk7N9B/intertv.png" group-title="SPORTS🏅", INTERMILAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 
 #EXTINF:-1 cuid="1449" tvg-name="UEFA Champions League 🇺🇸" tvg-id="65ea8b928145cb0008509426" tvg-logo="https://raw.githubusercontent.com/vinawao/iptv/refs/heads/master/CBS_Champions.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",CBS UEFA Champions League 🇺🇸
