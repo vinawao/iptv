@@ -322,6 +322,51 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ocdmtrviru/
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 
+#EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://i.ibb.co.com/DLK0y9f/dazncombat.png" group-title="SPORTS🏅" , DAZN COMBAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://i.ibb.co.com/DLK0y9f/dazncombat.png" group-title="SPORTS🏅" , DAZN COMBAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
+https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN FAST+" tvg-logo="https://i.ibb.co.com/tJP1cxn/daznfastplus.png" group-title="SPORTS🏅" , DAZN FAST+ PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN FAST" tvg-logo="https://i.ibb.co.com/tJP1cxn/daznfastplus.png" group-title="SPORTS🏅" , DAZN FAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="DAZN GOLF" tvg-logo="https://i.ibb.co.com/bFYHxJf/dazngolf.png" group-title="SPORTS🏅" , DAZN PGA TOUR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-505/stream.mpd
+
+#EXTINF:-1 tvg-id="GBBB1500005BH" tvg-logo="https://i.ibb.co.com/bFYHxJf/dazngolf.png" group-title="SPORTS🏅", PGA Tour
+https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad984427ba37/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bFYHxJf/dazngolf.png" group-title="SPORTS🏅", PGA Tour
+https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/playlist.m3u8?ads.xumo_channelId=99991281
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co.com/k9D3yrF/daznrise.png" group-title="SPORTS🏅" , DAZN RISE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co.com/k9D3yrF/daznrise.png" group-title="SPORTS🏅" , DAZN RISE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4
+https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd
+
+
 #EXTINF:-1 cuid="1449" tvg-name="UEFA Champions League 🇺🇸" tvg-id="65ea8b928145cb0008509426" tvg-logo="https://raw.githubusercontent.com/vinawao/iptv/refs/heads/master/CBS_Champions.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",CBS UEFA Champions League 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
