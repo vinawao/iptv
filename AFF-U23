@@ -328,6 +328,34 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash-sd/enc/pnoezm0h
 #KODIPROP:inputstream.adaptive.license_key=02c5848f99cc0e2d189ec785862f3e58:d7089c9e7e1a55a73c016c3fc33fe603
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ocdmtrviru/out/v1/e1732a27283d45d1b2de0c220e0ca62f/cenc.mpd
 
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://i.ibb.co.com/XthghZr/sportv.png" group-title="SPORTS🏅", SPORTV 🇧🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://i.ibb.co.com/XthghZr/sportv.png" group-title="SPORTS🏅", SPORTV 🇧🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="SporTV 2.br" tvg-logo="https://i.ibb.co.com/VNdT7qg/sportv2.png" group-title="SPORTS🏅", SPORTV2 🇧🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORTS🏅", SPORTV3 🇧🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORTS🏅", SPORTV3 🇧🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
+https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WHk7N9B/intertv.png" group-title="SPORTS🏅", INTERMILAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
