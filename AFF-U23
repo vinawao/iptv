@@ -627,3 +627,45 @@ $$$https://jmp2.uk/sam-KRBD1900001Y2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://jmp2.uk/sam-USBD12000255B.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co.com/p24tp0P/unifisports.png" group-title="SPORTS🏅", UNIFI SPORTS 🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-id="UNIVERSO (East).us" tvg-logo="https://i.ibb.co.com/1nn4svg/universosports.png" group-title="SPORTS🏅", UNIVERSO (EAST) 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/1nn4svg/universosports.png" group-title="SPORTS🏅", UNIVERSO (WEST) 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8af41461cac43b0791958320e60d821b:3590b4e7796f9ee6ac82e1a6ddca75b6
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-west)/master.mpd
+
+#EXTINF:-1 tvg-id="USA Network (East).us" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="SPORTS🏅", USA (EAST) 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-id="USA Network (East).us" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="SPORTS🏅", USA (EAST) 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-id="USANetworkWest.us" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="SPORTS🏅", USA (WEST) 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1 tvg-id="USANetworkWest.us" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="SPORTS🏅", USA (WEST) 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+
+
+
+
+ ######### 
