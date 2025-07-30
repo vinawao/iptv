@@ -67,6 +67,9 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAG
 #EXTINF:-1 tvg-id="00000" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", Sky Sport Premier League 🇩🇪
 https://events3.liveboxpro.com/event/1.m3u8
 
+#EXTINF:-1 tvg-id="00000" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", V Sport Premium
+https://events3.liveboxpro.com/event/3.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 4.br" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", ESPN 4 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=934e461042f6431f9bad32480652eb3e:fd41d776a8ae49dc9992fb853444f435
