@@ -78,6 +78,12 @@ https://events3.liveboxpro.com/event/3.m3u8
 https://events3.liveboxpro.com/event/48.m3u8
 
 
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", ESPN 🇧🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e1779a585414fe9b785aa335fcaf245:48ee6954e3197985ce5fb843a48e8243
+https://cwtvbk.cdnwatchlabs.io/dash/channels/espn/index.mpd
+
 #EXTINF:-1 tvg-id="ESPN 4.br" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", ESPN 4 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=934e461042f6431f9bad32480652eb3e:fd41d776a8ae49dc9992fb853444f435
