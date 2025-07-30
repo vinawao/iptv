@@ -78,7 +78,6 @@ https://events3.liveboxpro.com/event/3.m3u8
 https://events3.liveboxpro.com/event/48.m3u8
 
 
-
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", ESPN 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e1779a585414fe9b785aa335fcaf245:48ee6954e3197985ce5fb843a48e8243
