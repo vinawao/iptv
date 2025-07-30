@@ -296,6 +296,13 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/560505/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
+
+#EXTINF:-1 tvg-id="Setanta Sports 1.lt" tvg-logo="https://i.ibb.co.com/hyShPmQ/setantasp1.png" group-title="SPORTS🏅", SETANTA SPORT 1 🇱🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
+
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hBDRkbp/hboxing.png" group-title="SPORTS🏅", HBO BOXING 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
