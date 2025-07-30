@@ -191,6 +191,12 @@ http://143.44.136.110:6910/001/2/ch00000090990000001200/manifest.mpd?virtualDoma
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
 
+#EXTINF:-1 cuid="911" tvg-name="L'Equipe 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",L'Equipe 1 🇫🇷
+https://d3awaj0f2u3w26.cloudfront.net/master.m3u8
+#EXTINF:-1 cuid="912" tvg-name="L'Equipe 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",L'Equipe 2 🇫🇷
+https://d2l55nvfkhk4sg.cloudfront.net/master.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="beIN SPORTS (HD).sg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BeIN_SPORTS_HD1_logo.png/900px-BeIN_SPORTS_HD1_logo.png", beIN Sports 1 🇦🇺 AUSTRALIA
