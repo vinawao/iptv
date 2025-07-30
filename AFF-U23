@@ -428,12 +428,12 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://www.futbol.nu/upload/canales/m-laliga-tv-hd.png" group-title="SPORTS🏅",M+ LALIGA TV 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-https://live12-dash.cdns.cdn.orangetv.orange.es/RueE_1yWXSyuomYWfrAQWA/1685098167/85849807/112457707/76/cmaf/r12_mlaliga/dash_medium.mpd
+https://live12-dash.cdns.cdn.orangetv.orange.es/RueE_1yWXSyuomYWfrAQWA/1685098167/85849807/112457707/76/cmaf/r12_mlaliga/dash_high.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h9SQfNv/mpluslaligatv.png" group-title="SPORTS🏅",M+ LALIGA 2 TV 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61e9a16fd7fa4679cb51c81fcaa8729f:92999f97ff4ee6ec52a60d490fb3f14c
-https://live12-dash.cdns.cdn.orangetv.orange.es/50b2-gooyeieKBCBtbALhA/1685098382/85849807/112457707/75/cmaf/r12_mlaliga2/dash_medium.mpd
+https://live12-dash.cdns.cdn.orangetv.orange.es/50b2-gooyeieKBCBtbALhA/1685098382/85849807/112457707/75/cmaf/r12_mlaliga2/dash_high.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h9SQfNv/mpluslaligatv.png" group-title="SPORTS🏅",M+ LALIGA 3 TV 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
