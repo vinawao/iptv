@@ -425,7 +425,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h9SQfNv/mpluslaligatv.png" group-title="SPORTS🏅",M+ LALIGA TV 🇪🇸
+#EXTINF:-1 tvg-logo="https://www.futbol.nu/upload/canales/m-laliga-tv-hd.png" group-title="SPORTS🏅",M+ LALIGA TV 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
 https://live12-dash.cdns.cdn.orangetv.orange.es/RueE_1yWXSyuomYWfrAQWA/1685098167/85849807/112457707/76/cmaf/r12_mlaliga/dash_medium.mpd
@@ -446,7 +446,7 @@ https://live12-dash.cdns.cdn.orangetv.orange.es/8YM1Ns82Fqqx0u9wOG8U7w/168509841
 https://live12-dash.cdns.cdn.orangetv.orange.es/rll917nhw3FONHmjN81nIQ/1685098455/85849807/112457707/80/cmaf/r12_mlaliga4/dash_medium.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PjtWH4q/ligadecampeonesmplus.png" group-title="SPORTS🏅",M+ Liga de Campeones 🇪🇸
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/01/Liga-de-Campeones-por-Movistar-Plus-Logo-Vector.svg-.png" group-title="SPORTS🏅",M+ Liga de Campeones 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
 https://live12-dash.cdns.cdn.orangetv.orange.es/hpVkPAjFFpE3JSIKY3SY-Q/1727923395/104469517/132089857/87/cmaf/r12_mcampeones/dash_high.mpd
