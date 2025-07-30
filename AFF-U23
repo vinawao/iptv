@@ -187,6 +187,11 @@ http://143.44.136.110:6910/001/2/ch00000090990000001200/manifest.mpd?virtualDoma
 
 
 
+#EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",tdp 🇪🇸
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="beIN SPORTS (HD).sg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BeIN_SPORTS_HD1_logo.png/900px-BeIN_SPORTS_HD1_logo.png", beIN Sports 1 🇦🇺 AUSTRALIA
 #EXTGRP: BEIN SPORTS NETWORK
