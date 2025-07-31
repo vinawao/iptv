@@ -216,17 +216,27 @@ https://test.ddnetwork.workers.dev/index.mpd?kid=002046c9a49b9ab1cdb6616bec5d26c
 https://test.ddnetwork.workers.dev/index.mpd?kid=002046c9a49b9ab1cdb6616bec5d26c3&ch=https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
 
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/FUBO.png" group-title="SPORTS🏅", FUBO SPORTS 1 🇨🇦
+#EXTINF:-1 cuid="1449" tvg-name="UEFA Champions League 🇺🇸" tvg-id="65ea8b928145cb0008509426" tvg-logo="https://raw.githubusercontent.com/vinawao/iptv/refs/heads/master/CBS_Champions.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",CBS UEFA Champions League 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+
+
+
+#EXTINF:-1  tvg-id="FUBO SPORTS 1" tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/FUBO.png" group-title="SPORTS🏅", FUBO SPORTS 1 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/FUBO.png" group-title="SPORTS🏅", FUBO SPORTS 2 🇨🇦
+#EXTINF:-1  tvg-id="FUBO SPORTS 2" tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/FUBO.png" group-title="SPORTS🏅", FUBO SPORTS 2 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+
+
+## MOTOGP 
 
 
 #EXTINF:-1 group-title="🏍️ MOTO-GP 🏍️" tvg-id="skysport.it" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/LOGO/02/Events_MotoGP.png", _SKY SPORT MOTOGP 🇮🇹 ITALY
