@@ -13,6 +13,11 @@ https://hakim45.serv00.net/smarttv.php?id=Indosiar
 
 https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
 
+
+#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="CHANNEL | INDONESIA PREMIUM", SCTV FHD
+https://hakim45.serv00.net/smarttv.php?id=SCTV
+
+
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PROLIGA
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://iili.io/39ciYfS.png" group-title="LIVE | PROLIGA", MOJI HD
 https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8 
