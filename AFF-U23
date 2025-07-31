@@ -330,6 +330,45 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/
 
 
 
+## VOLLEY 
+
+
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", MOJI TV
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
+
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", RTVS Šport 🇸🇰 SLOVAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://cors.jugorder.de/http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
+
+http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="POLSAT 1" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", _Polsat Sport 1 🇵🇱 POLAND
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/13.2b11866 Mobile/16A366 Safari/605.1.15
+$$$https://denstv.short.gy/PolsatSport.m3u8
+###http://185.236.229.62:9981/play/a07n
+
+https://events3.liveboxpro.com/event/47.m3u8
+
+
+#EXTINF:-1 tvg-id="POLSAT 2" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", _Polsat Sport 2 🇵🇱 POLAND
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/13.2b11866 Mobile/16A366 Safari/605.1.15
+$$$https://denstv.short.gy/PolsatSportExtra.m3u8|referer=Https://huhu.to/&user-agent=iPhone
+###http://185.236.229.62:9981/play/a07q
+
+https://events3.liveboxpro.com/event/50.m3u8
+
+
+#EXTINF:-1 tvg-id="PERSIANA" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", _PERSIANA SPORTS 🇮🇷 IRAN
+#EXTGRP: 🏐 VNL NATIONS LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://spstr.abntv.live/hls/psstream.m3u8
+
+
+ ======== 
+
 
 #EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",tdp 🇪🇸
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
