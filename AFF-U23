@@ -176,6 +176,30 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
+## CHAMPIONS LEAGUE
+
+
+#EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/ucl-uel-uecl-2024-800x445.jpg" group-title="ESPN COLOMBIA", ESPN 5 🇨🇴
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
+#EXTVLCOPT:http-referrer=https://clarovideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e
+https://test.ddnetwork.workers.dev/index.mpd?kid=002046c9a49b9ab1cdb6616bec5d26c3&ch=https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="ESPN 6.co" tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/ucl-uel-uecl-2024-800x445.jpg" group-title="ESPN COLOMBIA", ESPN 6 🇨🇴
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
+#EXTVLCOPT:http-referrer=https://clarovideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
+https://test.ddnetwork.workers.dev/index.mpd?kid=002046c9a49b9ab1cdb6616bec5d26c3&ch=https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="ESPN 7.co" tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/ucl-uel-uecl-2024-800x445.jpg" group-title="ESPN COLOMBIA", ESPN 7 🇨🇴
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
+#EXTVLCOPT:http-referrer=https://clarovideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
+https://test.ddnetwork.workers.dev/index.mpd?kid=002046c9a49b9ab1cdb6616bec5d26c3&ch=https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/FUBO.png" group-title="SPORTS🏅", FUBO SPORTS 1 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
