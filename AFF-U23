@@ -333,8 +333,14 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/
 ## VOLLEY 
 
 
-#EXTINF:-1 tvg-id="0000" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", MOJI TV
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", MOJI TV 🇮🇩
 https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
+
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", SPORTV2 🇧🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
 
 #EXTINF:-1 tvg-id="0000" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", RTVS Šport 🇸🇰 SLOVAK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
