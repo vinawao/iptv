@@ -179,6 +179,12 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 ## CHAMPIONS LEAGUE
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/ucl-uel-uecl-2024-800x445.jpg" group-title="SPORTS🏅",M+ Liga de Campeones 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/hpVkPAjFFpE3JSIKY3SY-Q/1727923395/104469517/132089857/87/cmaf/r12_mcampeones/dash_high.mpd
+
 #EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/ucl-uel-uecl-2024-800x445.jpg" group-title="ESPN COLOMBIA", ESPN 5 🇨🇴
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
 #EXTVLCOPT:http-referrer=https://clarovideo.com/
