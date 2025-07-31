@@ -65,6 +65,16 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro
 
 https://events3.liveboxpro.com/event/124.m3u8
 
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports Asia", ASTRO GRANDSTAND
+https://events3.liveboxpro.com/event/123.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kDO2EmZlBDZyEzMtkjZxIWLzQGO00SMhRzMtAjZjRjN1EWN/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="00000" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", Sky Sports Premier League 🇬🇧
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.ts.m3u8
 
