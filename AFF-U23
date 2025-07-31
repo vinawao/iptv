@@ -410,6 +410,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd
 
 
+## TNT SPORTS 
 
 #EXTINF:-1 group-title="SPORTS🏅" tvg-id="TNT Sports 1.uk" tvg-logo="https://i.ibb.co.com/kqXTRqF/tntsp1.png",TNT SPORTS 1 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -473,6 +474,8 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
+
+## DAZN NETWORK 
 
 #EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://i.ibb.co.com/DLK0y9f/dazncombat.png" group-title="SPORTS🏅" , DAZN COMBAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
@@ -567,36 +570,38 @@ https://dhernglcdl9xo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2t2ysriy83qdz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e8pyyaxy3l7mo/dfbtv.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="SPORTS🏅", EUROSPORT 1 🇫🇷
+## EUROSPORT 
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/Eurosport1.png" group-title="SPORTS🏅", EUROSPORT 1 🇫🇷
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a98f8e748e2e14057e9f99ac8e3a025:a0d9aa1a419ced1f9f4c2804b92ee0f7
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/crenwml9jf/out/v1/09518f97387b4ea5a69279a1aa1daf0a/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png" group-title="SPORTS🏅", EUROSPORT 2 🇫🇷
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/Eurosport2.png" group-title="SPORTS🏅", EUROSPORT 2 🇫🇷
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15b830e0b73b0b8ef99786121997d5f5:51646d5e500648c6a4e319c7861e963f
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/at8teepvrn/out/v1/ab8d59a847f046c88f07a7f3d115d7fe/cenc.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 1.lt" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="SPORTS🏅", EUROSPORT 1 🇱🇹
+#EXTINF:-1 tvg-id="Eurosport 1.lt" tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/Eurosport1.png" group-title="SPORTS🏅", EUROSPORT 1 🇱🇹
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561802/index.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 2.lt" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png" group-title="SPORTS🏅", EUROSPORT 2 🇱🇹
+#EXTINF:-1 tvg-id="Eurosport 2.lt" tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/Eurosport2.png" group-title="SPORTS🏅", EUROSPORT 2 🇱🇹
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=657707bbd1e240e08bd6969df27fef7c:364e00581c1432f4175e4a2e8e0cd57e
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561705/index.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 1 HD.sk" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="SPORTS🏅", EUROSPORT 1 🇸🇰
+#EXTINF:-1 tvg-id="Eurosport 1 HD.sk" tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/Eurosport1.png" group-title="SPORTS🏅", EUROSPORT 1 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 2 HD.sk" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png" group-title="SPORTS🏅", EUROSPORT 2 🇸🇰
+#EXTINF:-1 tvg-id="Eurosport 2 HD.sk" tvg-logo="https://raw.githubusercontent.com/vinawao/stream/refs/heads/main/Eurosport2.png" group-title="SPORTS🏅", EUROSPORT 2 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -604,6 +609,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 
+## MOVISTAR 
 
 #EXTINF:-1 tvg-logo="https://www.futbol.nu/upload/canales/m-laliga-tv-hd.png" group-title="SPORTS🏅",M+ LALIGA TV 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
