@@ -8,13 +8,13 @@
 
 
 
-#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/03/INDOSIAR.png", INDOSIAR HD
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="LIVE | LIGA TARKAM" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/03/INDOSIAR.png", INDOSIAR HD
 https://hakim45.serv00.net/smarttv.php?id=Indosiar
 
 https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
 
 
-#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://1.bp.blogspot.com/-4AU8DkzhqIY/Uj0LVRPSoMI/AAAAAAAADvA/oRA48HrF8H4/s1600/logo+sctv.png" group-title="CHANNEL | INDONESIA PREMIUM", SCTV HD
+#EXTINF: -1 tvg-id="sctv.id" tvg-logo="https://1.bp.blogspot.com/-4AU8DkzhqIY/Uj0LVRPSoMI/AAAAAAAADvA/oRA48HrF8H4/s1600/logo+sctv.png" group-title="CHANNEL | INDONESIA PREMIUM", SCTV HD
 https://hakim45.serv00.net/smarttv.php?id=SCTV
 
 https://smart.pendy.dpdns.org/Smart.php?id=SCTV
