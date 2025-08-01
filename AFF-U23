@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE-EVENT 🟢 DENSTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF ASEAN U-23 MEWATCH 5
+#EXTINF:-1 group-title="LIVE-EVENT 🟢 DENSTV" tvg-logo="https://images.seeklogo.com/logo-png/62/3/asean-womens-championship-msig-serenity-cup-2025-logo-png_seeklogo-620412.png", ASEAN WOMENS SERENITY CUP - MEWATCH 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
 ###https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
