@@ -63,6 +63,12 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4
 
  ================ 
 
+#EXTINF: -1 t" tvg-chno="65" tvg-logo="https://tatalogo.pages.dev/246.png" group-title="Sports", Star Sports Select 1 HD
+http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=155972&extension=m3u8&play_token=JD4P7ykzYY
+#EXTINF: -1 tvg-id="463" tvg-chno="66" tvg-logo="https://tatalogo.pages.dev/463.png" group-title="Sports", Star Sports Select 2 HD
+http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=1114584&extension=m3u8&play_token=LNvo1XOyv5
+
+
 #EXTINF:-1  tvg-logo="https://footystreamz.weebly.com/uploads/1/3/9/3/13932622/sky-uk-sports-football-in-pubs_1_orig.png" group-title="SPORTS🏅" , Sky Sports Football 🇬🇧
 https://wahyu1ptv.pages.dev/SkySportFootball-HD.m3u8
 
