@@ -514,9 +514,9 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561402/index.mpd
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
 
- #### FIGHT 
+ #### FIGHT 🥊🥊🥊🥊🥊 
 
-#EXTINF:-1 group-title="SPORTS | FIGHT 🥊" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/LOGO/SPORTS/FIGHT/UsBoxing.png", BOXING TV 🇺🇸
+#EXTINF:-1 tvg-id="BOXING TV" group-title="SPORTS | FIGHT 🥊" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/LOGO/SPORTS/FIGHT/UsBoxing.png", BOXING TV 🇺🇸
 https://cors-proxy.cooks.fyi/https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
 
 #EXTINF:-1 tvg-id="Fight Sports.id"  tvg-logo="http://i.ibb.co.com/R9NWLrR/fightsports.png" group-title="SPORTS🏅", FIGHT SPORTS 🇺🇸
@@ -527,23 +527,23 @@ https://cors-proxy.cooks.fyi/https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.
 https://damp-mouse-75ea.pejan97800.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hBDRkbp/hboxing.png" group-title="SPORTS🏅", HBO BOXING 🇺🇸
+#EXTINF:-1  tvg-id="HBO BOXING" tvg-logo="https://i.ibb.co.com/hBDRkbp/hboxing.png" group-title="SPORTS🏅", HBO BOXING 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hBDRkbp/hboxing.png" group-title="SPORTS🏅", HBO BOXING 🇺🇸
+#EXTINF:-1  tvg-id="HBO BOXING" tvg-logo="https://i.ibb.co.com/hBDRkbp/hboxing.png" group-title="SPORTS🏅", HBO BOXING 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" group-title="SPORTS | FIGHT 🥊", DAZN Ringside (PLUTO)
+#EXTINF:-1 tvg-id="DAZN RINGSIDE" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.nhBVBASWI9ISwS3cKXczXgHaDt?dpr=2,8&pid=ImgDetMain&o=7&rm=3" group-title="SPORTS | FIGHT 🥊", DAZN Ringside (PLUTO)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="SPORTS | FIGHT 🥊", ONE Championship TV (PLUTO)
+#EXTINF:-1 tvg-id="ONE CHAMPIONSHIP" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="SPORTS | FIGHT 🥊", ONE Championship TV (PLUTO)
 https://stitcher.pluto.tv/stitch/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f3a2c579-bda8-11ef-977d-def6d5c57c23
 
 
@@ -574,7 +574,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=b7fbbfb9-f693-11ea-b314-0242ac110002&userId=&serverSideAds=true
 
 
-#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLNrILSO7ogfD5dx-bL7-u9qJcR2ygMF7OvQw3ttsqD2hZD5Ry2br7QiAl&s=10
+###https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLNrILSO7ogfD5dx-bL7-u9qJcR2ygMF7OvQw3ttsqD2hZD5Ry2br7QiAl&s=10
 #EXTINF:-1 tvg-id="AAA WORLWIDE" tvg-logo="https://globalforceentertainment.com/wp-content/uploads/2024/06/Lucha-Libre-AAA.jpg" group-title="SPORTS | FIGHT 🥊", AAA Worldwide
 https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
