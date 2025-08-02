@@ -516,7 +516,7 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
  #### FIGHT 🥊🥊🥊🥊🥊 
 
-#EXTINF:-1 tvg-id="BOXING TV" group-title="SPORTS | FIGHT 🥊" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/LOGO/SPORTS/FIGHT/UsBoxing.png", BOXING TV 🇺🇸
+#EXTINF:-1 tvg-id="BOXING TV" group-title="SPORTS | FIGHT 🥊" tvg-logo="https://cors-proxy.cooks.fyi/https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/boxing_tv_color.png", BOXING TV 🇺🇸
 https://cors-proxy.cooks.fyi/https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
 
 #EXTINF:-1 tvg-id="Fight Sports.id"  tvg-logo="http://i.ibb.co.com/R9NWLrR/fightsports.png" group-title="SPORTS🏅", FIGHT SPORTS 🇺🇸
@@ -577,7 +577,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 
 
-#EXTINF:-1 tvg-id="SFT COMBATE" tvg-logo="https://pubimg.band.uol.com.br/files/ae413fb355b98206f6a8.png" group-title="SPORTS | FIGHT 🥊", SFT COMBATE 🇧🇷 
+#EXTINF:-1 tvg-id="SFT COMBATE" tvg-logo="https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5&w=2257" group-title="SPORTS | FIGHT 🥊", SFT COMBATE 🇧🇷 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="SWERVE COMBAT" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1uCi7v.img?w=768&h=402&m=6" group-title="SPORTS | FIGHT 🥊", SWERVE COMBAT
