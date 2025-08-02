@@ -514,6 +514,15 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561402/index.mpd
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
 
+
+#EXTINF:-1 tvg-id="Fight Sports.id"  tvg-logo="http://i.ibb.co.com/R9NWLrR/fightsports.png" group-title="SPORTS🏅", FIGHT SPORTS 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f4c7790660c4a0ea82f38ca1998da13:9186a4ec6c2c2af731de820bf517e4e0
+https://damp-mouse-75ea.pejan97800.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hBDRkbp/hboxing.png" group-title="SPORTS🏅", HBO BOXING 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
