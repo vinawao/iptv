@@ -514,6 +514,10 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561402/index.mpd
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
 
+ #### FIGHT 
+
+#EXTINF:-1 group-title="SPORTS | FIGHT 🥊" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/LOGO/SPORTS/FIGHT/UsBoxing.png", BOXING TV 🇺🇸
+https://cors-proxy.cooks.fyi/https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
 
 #EXTINF:-1 tvg-id="Fight Sports.id"  tvg-logo="http://i.ibb.co.com/R9NWLrR/fightsports.png" group-title="SPORTS🏅", FIGHT SPORTS 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
@@ -534,6 +538,24 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" group-title="SPORTS | FIGHT 🥊", DAZN Ringside (PLUTO)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="SPORTS | FIGHT 🥊", ONE Championship TV (PLUTO)
+https://stitcher.pluto.tv/stitch/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f3a2c579-bda8-11ef-977d-def6d5c57c23
+
+
+#EXTINF:-1 channel-id="pluto-5ebc8688f3697d00072f7cf8" tvg-id="5ebc8688f3697d00072f7cf8" tvg-chno="2170" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/LOGO/SPORTS/00/Bellator.png" group-title="SPORTS | FIGHT 🥊", BELLATOR MMA 🇺🇸
+#EXTVLCOPT:http-referrer=1.1.1.1
+##https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8-alt.m3u8
+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&clientModelNumber=na&deviceDNT=false&deviceId=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&deviceLat=42.3562&deviceLon=-71.0631&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.114&marketingRegion=US&serverSideAds=true&sessionID=0ee254ab-9a28-11eb-a134-0242ac110002&sid=0ee254ab-9a28-11eb-a134-0242ac110002&userId=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717265792491048960/01MzLIGp_400x400.png" group-title="SPORTS | FIGHT 🥊", SWERVE COMBATE
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8?ads.dpname=distrotv&ads.rnd=nwv8&ads.env_i=9f030b0a-8e0b-4f05-9634-786fe18a8b56&ads.env_u=4d5c51c5-b9e6-4641-bd07-28a65b68085e&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=590&ads.height=332&ads.deviceId=4d5c51c5-b9e6-4641-bd07-28a65b68085e&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=1&ads.aid=4d5c51c5-b9e6-4641-bd07-28a65b68085e&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=23.237.216.53&ads.geo=US&ads.lat=34.07260&ads.long=-118.26100&ads.dma=803&ads.geoType=2&ads.contentid=23018&ads.content_duration=18000&ads.episode_id=71932&ads.show_id=2842&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CMartial%20Arts%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Swerve%20Combat&ads.episodetitle=Swerve%20Combat&ads.keywords=Swerve%20Sports%2CCombat%2CStories%2CDocumentary&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fswerve-combat%2F&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=AQzzBGQEz23_QmjMo8MV24XHTMOPr_Qy8t9LuXYB1DwmDT4N_66Jib9y_QbgGkQKDCWWizbRb03h0LxAcQ7GGpaFMS-7QPJQdj0rE3dG6vjSiHKKT0ISn22Saeb11RfMUJ0qupsB8XaWlVfhgbtt_O5uzdJX24Qm6gFkDGM6f0sUBauHWt568zZlFx3oABGclepu-jcUwq4SBXxFUmaGbCHGPkTp_ImYKdU2b8zRRJcaMrJDdN0uxUzEwyYpqTCA-bNmoN3HsudDOIGCArfbNLEt_IILx4w-ToMsQvvbvbRjc-nrXzrDpgo5lqvwQxTip6F7GyNbmhzWXAYgYD_Z1UEK07DIv7Sns18xqQYH-7NOe3K2NSxcTvZtJ_hsa1ip2wRdafY8kWRs1cxSAiga1a3p3lGu93PiMxEsMA2c4k-77lNMo8XDI__ug9gjed3sdwXEcTkcQPv8RfI1VJYvjoSLeHJ5YcAIVWaxX0I_hvarwu6xS-67Zl20MABISdEnQn2Q96RpKKOh43fzwIzqgIsb4-Y5cnbuLRP8NHh87s9KWD2UGJxX6LFo1kxrtfLecBvdR0ZViAxSxuEbCRyVpI92ZHy_UZSVA5z1FYdN1Lmv1_qTNtB1VSu-dsyBNQnB7BTWlTnpnSw5H7UZSAp4a5w7iRkMNb7lOEfdYEddE2hOfKTXOJ3l73cohePRIdZeC6Y7iYiHbT_8goIUraB-mKOTOrvTDdDtvaGZ4G_VcA4dRtgc0lY4gytTdVybWvKxxlYJKzdQfK0XEsx3wltbLd1Ply8auHT08MNzVfNsnqdaipr8xrt2Gaj18G6KoaDUnRYFLRyMxkt-jnaEWKbQKypIe-ygeJUhpHW2tMivXdUVhwtl7NzCYnYxmRq9pGI1uNy0H6Yqkup6rq980NFd7FJThtbWV0c8eQ_YLMlbotNnS_-PyLSMiIPlnrfDVGcP3K1rakdMyNs1buX8F_DhiHblwbrjixQ25X32s5QepvIIsTC3fAFihTuegTZCG_JvtcVk2b17CNWwshnqoOJMej9aW4nTP-VeJ-xKxjPSbtomDmw2fVt668_WgB2yN3_84X4gSdnHbmm8vna2N7ez2K9MYYmCmw4tGEFsVQa8CFl6TvN-WEq_ujW3AloU4bt7fYOAmv6XvekqkmS8UTfL8Q8iZksRLx2YyBFYmWu2IatbF9t6vutm4mUEo2zR-cINlW1BkoLX1IAKSFNbV11wMEwP_f1g8qLkgLFUo3SbzIT4_P3_HmA-y79UZ7mzKvl5fk5ViMQbTBHjYcvj7hgP6-kn9rVzuocWbXAkssj5JzOURvXQDPUOn43m9Bbu9qvk7tJcMh-FlCQTSlJAb_EOzcMgCD3CJQVeYKvR5ynptxil6hdWWZZWPHoJ8XM.&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241005
 
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.ibb.co.com/gWdnCyL/combate.png" group-title="SPORTS🏅" , COMBATE 🇧🇷
