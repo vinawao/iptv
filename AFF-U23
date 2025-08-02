@@ -540,6 +540,10 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
 
 
+#EXTINF:-1 tvg-id="LMXB" tvg-name="COMBATV" tvg-logo="https://imgur.com/kVyHCec.png" group-title="SPORTS | FIGHT 🥊", LMXB
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+
+
 #EXTINF:-1 channel-id="pluto-GLORY KICKBOXING" tvg-id="5417a212ff9fba68282fbf5e" tvg-chno="2185" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/LOGO/SPORTS/00/Glorykick.png" group-title="SPORTS | FIGHT 🥊", GLORY KICKBOXING 🇺🇸
 #EXTVLCOPT:http-referrer=1.1.1.1
 ##https://jmp2.uk/plu-5417a212ff9fba68282fbf5e-alt.m3u8
