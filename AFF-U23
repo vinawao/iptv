@@ -963,12 +963,26 @@ https://ddy6new.newkso.ru/ddy6/premium148/mono.m3u8|referer=https://caq21harderv
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg" group-title="Premium Channel", Celestial Movies
-https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&userid=lite&chname=celestial-movies-hd|user-agent=Mozilla/5.0
+$$https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&userid=lite&chname=celestial-movies-hd|user-agent=Mozilla/5.0
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
+https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd|user-agent=ExoPlayerDemo/2.15.1
+
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg" group-title="Premium Channel", Celestial Classic Movies
-https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&userid=lite&chname=ccm-celestial-classic-mv|user-agent=Mozilla/5.0
+$$https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&userid=lite&chname=ccm-celestial-classic-mv|user-agent=Mozilla/5.0
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+
 
 
 
