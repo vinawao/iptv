@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE-EVENT 🟢 DENSTV" tvg-logo="https://images.seeklogo.com/logo-png/62/3/asean-womens-championship-msig-serenity-cup-2025-logo-png_seeklogo-620412.png", ASEAN WOMENS SERENITY CUP - MEWATCH 5
+#EXTINF:-1 group-title="LIVE-EVENT 🟢 DENSTV" tvg-logo="https://content.aseanutdfc.com/cdn-cgi/image/format=auto,metadata=none/prod/seo/2025/268551744102579.png", ASEAN WOMENS SERENITY CUP - MEWATCH 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
 ###https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
@@ -50,7 +50,7 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 
-#EXTINF:-1 tvg-id="97078" tvg-logo="https://i.ibb.co.com/7tQVjhWG/live.png", ONE FIGHT - MEWATCH 2
+#EXTINF:-1 tvg-id="97078" tvg-logo="https://i1.wp.com/fredrichani.com/wp-content/uploads/2021/05/one-championship-mma-logo-tsc-news-sports-courier-fred-richani-muay-thai.jpg?fit=1200%2C675&ssl=1", ONE FIGHT - MEWATCH 2
 #EXTGRP: EVENT 🛜
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
