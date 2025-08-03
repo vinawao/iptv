@@ -16,6 +16,8 @@
 #EXTINF:0, SKY SPORTS MAIN EVENT UHD 🇬🇧
 http://7pal.short.gy/SSMEuhd
 
+#EXTINF:0, SKY SPORTS TOP EVENT 🇩🇪
+http://146.59.54.156/6048/mpegts
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="LIVE | LIGA TARKAM" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/03/INDOSIAR.png", INDOSIAR HD
 https://hakim45.serv00.net/smarttv.php?id=Indosiar
@@ -149,13 +151,15 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12
 #EXTINF:-1 tvg-id="00000" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", Sky Sports Premier League 🇬🇧
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="00000" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", Sky Sport Premier League 🇩🇪
-https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/1.m3u8
+#EXTINF:-1 tvg-id="sky epl de" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", Sky Sport Premier League 🇩🇪
+$$https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/1.m3u8
 
-#EXTINF:-1 tvg-id="00000" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", V Sport Premium
+http://146.59.54.156/6044/mpegts
+
+#EXTINF:-1 tvg-id="v sport premium" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", V Sport Premium
 https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/3.m3u8
 
-#EXTINF:-1 tvg-id="00000 tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", CANAL+ PLUS SPORT 🇵🇱
+#EXTINF:-1 tvg-id="canal+sport poland tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", CANAL+ PLUS SPORT 🇵🇱
 https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/48.m3u8
 
 
@@ -1039,6 +1043,107 @@ https://zekonew.newkso.ru/zeko/premium147/mono.m3u8|referer=https://caq21harderv
 https://ddy6new.newkso.ru/ddy6/premium148/mono.m3u8|referer=https://caq21harderv991gpluralplay.xyz/&origin=https://caq21harderv991gpluralplay.xyz&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
+
+
+
+#EXTINF:-1,CANAL+ EXTRA 1 HD
+http://146.59.54.156/6027/mpegts
+#EXTINF:-1,CANAL+ EXTRA 2 HD
+http://146.59.54.156/6028/mpegts
+#EXTINF:-1,CANAL+ EXTRA 3 HD
+http://146.59.54.156/6029/mpegts
+#EXTINF:-1,CANAL+ EXTRA 4 HD
+http://146.59.54.156/6030/mpegts
+#EXTINF:-1,Sky Sport Tennis HD
+http://146.59.54.156/6035/mpegts
+#EXTINF:-1,EVENT1 HD
+http://146.59.54.156/6036/mpegts
+#EXTINF:-1,EVENT2 HD
+http://146.59.54.156/6037/mpegts
+#EXTINF:-1,EVENT3 HD
+http://146.59.54.156/6038/mpegts
+#EXTINF:-1,EVENT4 HD
+http://146.59.54.156/6039/mpegts
+#EXTINF:-1,Sky Sport F1 HD
+http://146.59.54.156/6042/mpegts
+#EXTINF:-1,Sky Sport Premier League HD
+http://146.59.54.156/6044/mpegts
+#EXTINF:-1,RMC Sport 1 HD
+http://146.59.54.156/6049/mpegts
+#EXTINF:-1,RMC Sport Live 2 HD
+http://146.59.54.156/6043/mpegts
+#EXTINF:-1,RMC Sport Live 3 HD
+http://146.59.54.156/6041/mpegts
+#EXTINF:-1,RMC Sport Live 4 HD
+http://146.59.54.156/6040/mpegts
+#EXTINF:-1,Sky Sport Bundesliga HD
+http://146.59.54.156/6047/mpegts
+#EXTINF:-1,Sky Sport Golf HD
+http://146.59.54.156/6045/mpegts
+#EXTINF:-1,Sky Sport Top Event HD
+http://146.59.54.156/6048/mpegts
+#EXTINF:-1,Sky Sport Mix HD
+http://146.59.54.156/6050/mpegts
+#EXTINF:-1,Polsat Sport Premium 1 HD
+http://145.239.19.144:18088/191/mpegts
+#EXTINF:-1,Polsat Sport Premium 2 HD
+http://145.239.19.144:18088/190/mpegts
+#EXTINF:-1,Eleven Sports 1 HD
+http://145.239.19.144:18088/271/mpegts
+#EXTINF:-1,Eleven Sports 2 HD
+http://145.239.19.144:18088/270/mpegts
+#EXTINF:-1,Eleven Sports 3 HD
+http://145.239.19.144:18088/269/mpegts
+#EXTINF:-1,Eleven Sports 4 HD
+http://145.239.19.144:18088/272/mpegts
+#EXTINF:-1,CANAL+ Premium HD
+http://145.239.19.144:18088/295/mpegts
+#EXTINF:-1,CANAL+ Sport HD
+http://145.239.19.144:18088/297/mpegts
+#EXTINF:-1,CANAL+ Sport 2 HD
+http://145.239.19.144:18088/298/mpegts
+#EXTINF:-1,CANAL+ Sport 3 HD
+http://145.239.19.144:18088/340/mpegts
+#EXTINF:-1,CANAL+ Sport 4 HD
+http://145.239.19.144:18088/341/mpegts
+
+
+
+#EXTINF:-1,Nova Sport
+http://213.169.39.30:5102
+#EXTINF:-1,MAX SPORT1 HD
+http://213.169.39.30:5138
+#EXTINF:-1,MAX SPORT2 HD
+http://213.169.39.30:5140
+#EXTINF:-1,MAX SPORT3 HD
+http://213.169.39.30:5142
+#EXTINF:-1,MAX Sport 4 HD
+http://213.169.39.30:5130
+#EXTINF:-1,Diema Sport HD
+http://213.169.39.30:5134
+#EXTINF:-1,Diema Sport 2 HD
+http://213.169.39.30:5136
+
+
+#EXTINF:-1, Digi Sport 1 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium400
+#EXTINF:-1, Digi Sport 2 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium401
+#EXTINF:-1, Digi Sport 3 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium402
+#EXTINF:-1, Digi Sport 4 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium403
+
+
+
+#EXTINF:-1,TNT SPORTS 1 🇺🇸
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+#EXTINF:-1,TNT SPORTS 2 🇺🇸
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
+#EXTINF:-1,TNT SPORTS 3 🇺🇸
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
+#EXTINF:-1,TNT SPORTS 4 🇺🇸
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
 
 
 
