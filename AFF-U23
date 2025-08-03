@@ -15,6 +15,14 @@
  ⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕ 
 
 
+
+#EXTINF:-1, Scooore 🇩🇪
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43flivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861668-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=55465346-19d5-4828-9cf1-a9dc5950fa5e&profilesFromStream=true
+
+#EXTINF:-1, Scooore 🇩🇪
+https://jmp2.uk/sam-ATBD26000124P.m3u8
+
+
 #EXTINF:0, SKY SPORTS MAIN EVENT UHD 🇬🇧
 http://7pal.short.gy/SSMEuhd
 
@@ -497,8 +505,13 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 cuid="911" tvg-name="L'Equipe 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",L'Equipe 1 🇫🇷
+https://jmp2.uk/sam-FRBC4200004XH.m3u8
+
 https://d3awaj0f2u3w26.cloudfront.net/master.m3u8
+
 #EXTINF:-1 cuid="912" tvg-name="L'Equipe 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",L'Equipe 2 🇫🇷
+https://jmp2.uk/sam-FRBC4200005X2.m3u8
+
 https://d2l55nvfkhk4sg.cloudfront.net/master.m3u8
 
 
