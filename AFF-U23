@@ -113,7 +113,7 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://cfrt.stream.peacocktv.com
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
-#EXTINF:0 tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV",ASTRO PREMIER LEAGUE 1
+#EXTINF:0 tvg-id="ASTRO PL 1" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV",ASTRO PREMIER LEAGUE 1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -123,14 +123,17 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro
 https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/125.m3u8
 
 
-#EXTINF:-1 tvg-id="812" group-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg", ASTRO PREMIER LEAGUE 2 
+#EXTINF:-1 tvg-id="ASTRO PL 2" group-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg", ASTRO PREMIER LEAGUE 2 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
 
-https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/126.m3u8
+$$$https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/126.m3u8
 
+https://fbyf.short.gy/AstroBadminton2.m3u8?id=go_assp1x|referer=https://astrogo.astro.com.my/
+
+https://fbyf.short.gy/AstroBadminton2.m3u8?id=go_assp2|referer=https://astrogo.astro.com.my/
 
 #EXTINF:-1 tvg-id="814" group-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",ASTRO FOOTBALL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
