@@ -397,6 +397,8 @@ https://cors.jugorder.de/http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.
 
 http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MAX SPORT 2" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", MAX SPORT 2 HD BULGARIA
+http://213.169.39.30:5140
 
 #EXTINF:-1 tvg-id="POLSAT 1" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", _Polsat Sport 1 🇵🇱 POLAND
 #EXTVLCOPT:http-referrer=https://huhu.to/
