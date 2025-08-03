@@ -424,6 +424,27 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/ev
 https://spstr.abntv.live/hls/psstream.m3u8
 
 
+ ## VOLLEY SEA V LEAGUE 
+
+
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://www.seavleague.com/logo.png" group-title="🏐 VNL NATIONS LEAGUE", MOJI TV 🇮🇩
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
+
+#EXTINF:-1 tvg-id="Onesports.ph" tvg-logo="https://www.seavleague.com/logo.png" group-title="SPORTS", One Sports 🇵🇭
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#EXTINF:-1 tvg-id="Onesportsplus Hd.ph" tvg-logo="https://www.seavleague.com/logo.png" group-title="SPORTS", One Sports+ Plus 🇵🇭
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+
  ======== 
 
 
