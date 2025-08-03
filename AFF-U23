@@ -19,7 +19,7 @@
 http://7pal.short.gy/SSMEuhd
 
 #EXTINF:0, SKY SPORTS TOP EVENT 🇩🇪
-http://146.59.54.156/6048/mpegts
+https://cors.jugorder.de/http://146.59.54.156/6048/mpegts
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="LIVE | LIGA TARKAM" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/03/INDOSIAR.png", INDOSIAR HD
 https://hakim45.serv00.net/smarttv.php?id=Indosiar
@@ -156,7 +156,7 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAG
 #EXTINF:-1 tvg-id="sky epl de" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", Sky Sport Premier League 🇩🇪
 $$https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/1.m3u8
 
-http://146.59.54.156/6044/mpegts
+https://cors.jugorder.de/http://146.59.54.156/6044/mpegts
 
 #EXTINF:-1 tvg-id="v sport premium" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", V Sport Premium
 https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/3.m3u8
@@ -259,15 +259,15 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 ## BUNDESLIGA
 
 
-#EXTINF:-1  tvg-id="000" tvg-logo="https://cdn.iha.com.tr/Contents/images/2015/42/1299794.jpg" group-title="VIP Germany", Sky Sport Top Event
+#EXTINF:-1  tvg-id="SKY SPORT TOP EVENT" tvg-logo="https://cdn.iha.com.tr/Contents/images/2015/42/1299794.jpg" group-title="VIP Germany", Sky Sport Top Event
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b3265e1f9d52374c6c4705a258f7a:d223e0fec55e0a22344d1cacb8cd2855
 https://test.ddnetwork.workers.dev/index.mpd?kid=0009df430980c91904926a291cf321fb&ch=https://cors.jugorder.de/https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index.mpd
 
 #EXTINF:-1 tvg-id="000" tvg-logo="https://cdn.iha.com.tr/Contents/images/2015/42/1299794.jpg" group-title="VIP Germany", Sky Sport Bundesliga 
-http://146.59.54.156/6047/mpegts
+https://cors.jugorder.de/http://146.59.54.156/6047/mpegts
 
-#EXTINF:-1  tvg-id="000" tvg-logo="https://cdn.iha.com.tr/Contents/images/2015/42/1299794.jpg" group-title="VIP Germany", Sky Sport Bundesliga 1
+#EXTINF:-1  tvg-id="SKY SPORT BUNDESLIGA 1" tvg-logo="https://cdn.iha.com.tr/Contents/images/2015/42/1299794.jpg" group-title="VIP Germany", Sky Sport Bundesliga 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b0e3422812fcf3d1eb8cdf7511193:1fe928a3793feb3739f293b0b1b81d1d
 https://test.ddnetwork.workers.dev/index.mpd?kid=0009df430980c91904926a291cf321fb&ch=https://cors.jugorder.de/https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/031122-50/index_stereo.mpd
