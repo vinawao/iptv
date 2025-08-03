@@ -799,6 +799,15 @@ https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.IGgRQIVJZYIX_rtZ9jxtZQHaEK?dpr=2,8&pid=ImgDetMain&o=7&rm=3" group-title="SPORTS🏅", REAL MADRID TV *esp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.IGgRQIVJZYIX_rtZ9jxtZQHaEK?dpr=2,8&pid=ImgDetMain&o=7&rm=3" group-title="SPORTS🏅", REAL MADRID TV *eng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
 ## DAZN NETWORK 
 
 #EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://i.ibb.co.com/DLK0y9f/dazncombat.png" group-title="SPORTS🏅" , DAZN COMBAT
